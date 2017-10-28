@@ -10,8 +10,8 @@ In order to avoid confusion we called our class sequence. A sequence holds a col
 Values may be added and removed from the sequence. The values in a sequence are associated with an
 index but a value's index may change as items are added or removed from the sequence.
 
-For these assignments were were instructed to work "test first", that is; write a test, verify it fails, make it pass.
-
 ### BigInt class
 
-In this lab we were tasked with creating our own BigInt class...
+In this lab we were tasked with creating our own BigInt class and to test our solution using BOOST.
+BigInts were created by taking 'long long' values and storing each individual digit in an array.
+The assignment also required us to implement methods for comparison, addition, subtraction and multiplication of BigInts.
